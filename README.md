@@ -127,16 +127,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Built with ❤️ using Flutter + Flame
 
-> If you like this project, give it a ⭐ on GitHub!
-```
-
----
-
-Also add this as your **GitHub repo short description** (the one-liner under the repo name):
-```
-🟥 Hyper-casual mobile game — rotate the box, match the color, stay alive. Built with Flutter + Flame.
-```
-
-And these **GitHub topics/tags** for discoverability:
-```
-flutter  flame  game  mobile-game  hyper-casual  dart  android  ios  arcade  color-game
